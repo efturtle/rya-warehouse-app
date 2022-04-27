@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.proyectolog.ui.miUser.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/tareasTecnicoFragment"
+        android:name="com.example.proyectolog.ui.tareasTecnico.tareasTecnicoFragment"
+        android:label="fragment_tareastecnico"
+        tools:layout="@layout/fragment_tareastecnico" />
+    <fragment
+        android:id="@+id/usuariosAdminFragment"
+        android:name="com.example.proyectolog.ui.usuariosAdministrador.usuariosAdminFragment"
+        android:label="fragment_usuariosadmi"
+        tools:layout="@layout/fragment_usuariosadmi" />
+    <fragment
+        android:id="@+id/slideshowFragment"
+        android:name="com.example.proyectolog.ui.pedidosTecnico.pedidosTecnicoFragment"
+        android:label="fragment_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/cambiarFotoFragment"
+        android:name="com.example.proyectolog.ui.cambiarFoto.cambiarFotoFragment"
+        android:label="fragment_cambiarfoto"
+        tools:layout="@layout/fragment_cambiarfoto" />
+</navigation>

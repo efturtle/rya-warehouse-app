@@ -1,0 +1,225 @@
+{
+  "project_info": {
+    "project_number": "642134324345",
+    "firebase_url": "https://rtdb-6fe7e-default-rtdb.firebaseio.com",
+    "project_id": "rtdb-6fe7e",
+    "storage_bucket": "rtdb-6fe7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642134324345:android:5a54049a565c17ac6fd0a8",
+        "android_client_info": {
+          "package_name": "com.example.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642134324345-vh1i1s49get7b2dd1vt3c4g22tnj8h0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.afinal",
+            "certificate_hash": "0f9c0eb4d843fd4ab1e5d009eb51d3fe69f1ea47"
+          }
+        },
+        {
+          "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzB5LR09ms43mnIyg2rEqnxwuSxEAYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642134324345:android:72f1db4927b93a776fd0a8",
+        "android_client_info": {
+          "package_name": "com.example.intro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642134324345-5sucfbud9lui1304maak8ne3nlef8b2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intro",
+            "certificate_hash": "0f9c0eb4d843fd4ab1e5d009eb51d3fe69f1ea47"
+          }
+        },
+        {
+          "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzB5LR09ms43mnIyg2rEqnxwuSxEAYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642134324345:android:53ad7de927c1d9aa6fd0a8",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzB5LR09ms43mnIyg2rEqnxwuSxEAYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642134324345:android:9491e1b9d1417af96fd0a8",
+        "android_client_info": {
+          "package_name": "com.example.menulateral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642134324345-lfel4cdrscd3sgndod1afff0ldg3453l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.menulateral",
+            "certificate_hash": "0f9c0eb4d843fd4ab1e5d009eb51d3fe69f1ea47"
+          }
+        },
+        {
+          "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzB5LR09ms43mnIyg2rEqnxwuSxEAYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642134324345:android:eee34ca328ec0eb36fd0a8",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642134324345-8fd92cjtaprq7pkg5v5ehe72ts5bqa7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyecto",
+            "certificate_hash": "0f9c0eb4d843fd4ab1e5d009eb51d3fe69f1ea47"
+          }
+        },
+        {
+          "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzB5LR09ms43mnIyg2rEqnxwuSxEAYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642134324345:android:9df5b2bd90dfa0646fd0a8",
+        "android_client_info": {
+          "package_name": "com.example.proyectolog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642134324345-9opnbh2v3if6un58r1u39burko29fa0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectolog",
+            "certificate_hash": "0f9c0eb4d843fd4ab1e5d009eb51d3fe69f1ea47"
+          }
+        },
+        {
+          "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzB5LR09ms43mnIyg2rEqnxwuSxEAYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642134324345-vonet45m0rdq45eri6s5vable4vvvli3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
